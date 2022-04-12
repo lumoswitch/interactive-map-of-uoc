@@ -1,5 +1,7 @@
 # UOC Interactive map
 
+<img src="banner.svg" width="100%" />
+
 Designing the interactive map of University of Crete
 
 ## About
